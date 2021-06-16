@@ -7,9 +7,9 @@
 
 - 🔭 My current side project is [hermitcraft.tv](https://hermitcraft.tv).
 
-- 👯 I’m looking to collaborate with you (yes you!) on my next side project.
+- 👯 I’m looking to collaborate with you (yes you!*) on my next side project.
 
-- 👔 Am normally a very well dressed person. Except when you meet me in the home office.
+- 👔 Am normally a very well dressed person. Except when you meet me around the home office. Then I might be homeless too.
 
 - ⚡ **Fun fact** I think this profiles' whole purpose is to serve as a large enough buffer so no one will notice my lack of open-source projects.
 
@@ -29,3 +29,5 @@
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
 </p>
 
+* Terms and conditions apply.
+* 
