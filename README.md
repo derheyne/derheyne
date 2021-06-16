@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate with you (yes you!*) on my next side project.
 
-- 👔 Am normally a very well dressed person. Except when you meet me around the home office. Then I might be homeless too.
+- 👔 Am normally a very well dressed person. Except when you meet me around the home office. Then I could be homeless too.
 
 - ⚡ **Fun fact** I think this profiles' whole purpose is to serve as a large enough buffer so no one will notice my lack of open-source projects.
 
