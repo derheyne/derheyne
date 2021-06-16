@@ -3,13 +3,13 @@
 
 <p align="left"><a href="https://twitter.com/derheyne_" target="blank"><img src="https://img.shields.io/twitter/follow/derheyne_?logo=twitter&style=for-the-badge" alt="derheyne_" /></a></p>
 
-- 🏝️ Working remotely at [@WikaAG](https://github.com/WikaAG) and [@Honorado](https://github.com/Honorado)
+- 🏝️ Working remotely at [@WikaAG](https://github.com/WikaAG) and [@Honorado](https://github.com/Honorado).
 
 - 🔭 My current side project is [hermitcraft.tv](https://hermitcraft.tv).
 
 - 👯 I’m looking to collaborate with you (yes you!) on my next side project.
 
-- 👔 Am normally a very well dressed person. Except when you meet me in home office.
+- 👔 Am normally a very well dressed person. Except when you meet me in the home office.
 
 - ⚡ **Fun fact** I think this profiles' whole purpose is to serve as a large enough buffer so no one will notice my lack of open-source projects.
 
